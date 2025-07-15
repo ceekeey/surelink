@@ -1,0 +1,49 @@
+{
+  "name": "surelink",
+  "main": "expo-router/entry",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-community/netinfo": "11.4.1",
+    "expo": "~53.0.12",
+    "expo-constants": "~17.1.6",
+    "expo-contacts": "~14.2.5",
+    "expo-file-system": "~18.1.10",
+    "expo-font": "~13.3.1",
+    "expo-haptics": "~14.1.4",
+    "expo-linear-gradient": "~14.1.5",
+    "expo-media-library": "~17.1.7",
+    "expo-router": "~5.1.0",
+    "expo-sharing": "~13.1.5",
+    "expo-splash-screen": "~0.30.9",
+    "expo-status-bar": "~2.2.3",
+    "expo-system-ui": "~5.0.9",
+    "lottie-ios": "^4.5.1",
+    "lottie-react-native": "7.2.2",
+    "nativewind": "^2.0.11",
+    "react": "19.0.0",
+    "react-native": "0.79.4",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-haptic-feedback": "^2.3.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-modal": "^14.0.0-rc.1",
+    "react-native-paystack-webview": "^4.6.7",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-toast-message": "^2.3.3",
+    "react-native-view-shot": "4.0.3",
+    "react-native-webview": "13.13.5",
+    "tailwindcss": "^3.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2"
+  },
+  "private": true
+}

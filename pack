@@ -1,0 +1,18 @@
+npx expo install react-native-safe-area-context
+npx expo install expo-haptics
+npx expo install expo-linear-gradient
+npx expo install expo-network
+npx expo install @react-native-async-storage/async-storage
+npx expo install @react-native-community/netinfo
+npx expo install react-native-view-shot
+npm i react-native-responsive-screen 
+npm install react-native-keyboard-aware-scroll-view
+npm i react-native-paystack-webview@4.6.7
+npm install nativewind@^2.0.0 tailwindcss@3.3.2
+npx expo install lottie-react-native lottie-ios
+npx expo install expo-file-system
+npx expo install expo-media-library
+npx expo install expo-contacts
+npx expo install expo-sharing
+npx expo install react-native-reanimated react-native-gesture-handler
+npm install react-native-toast-message
